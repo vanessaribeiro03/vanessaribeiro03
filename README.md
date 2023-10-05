@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?weight=700&size=30&pause=1000&color=0000FF&width=435&lines=Olá,+me+chamo+Vanessa!+👋)](https://git.io/typing-svg)
 ---
 ### Sobre mim
-💻 Eu sou uma desenvolvedora [Back-End]
+💻 Sou desenvolvedora Back-End
 
 🎓 Atualmente estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) @ [Cubos Academy](https://cubos.academy/) 
 
