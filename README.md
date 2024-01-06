@@ -3,7 +3,7 @@
 ### Sobre mim
 💻 Sou desenvolvedora Back-End
 
-🎓 Atualmente estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) @ [Cubos Academy](https://cubos.academy/) 
+🎓 Formada pela [Cubos Academy](https://cubos.academy/) no curso [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) 
 
 🔎 Também sou curiosa sobre astronomia e em como as coisas funcionam nos bastidores
 
