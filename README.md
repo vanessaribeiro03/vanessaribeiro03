@@ -5,6 +5,8 @@
 
 🎓 Formada pela [Cubos Academy](https://cubos.academy/) no curso [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) 
 
+🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na faculdade [Descomplica](https://descomplica.com.br/faculdade/diferenciais/)
+
 🔎 Também sou curiosa sobre astronomia e em como as coisas funcionam nos bastidores
 
 ✨ Eu gosto de ver filmes, caminhar pela manhã e jogar Minecraft no meu tempo livre
